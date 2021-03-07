@@ -1,4 +1,4 @@
-name: MacOS VNC
+name: MacOS VN
 on: 
   workflow_dispatch:
 defaults:
